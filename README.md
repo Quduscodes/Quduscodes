@@ -7,8 +7,8 @@ Seasoned Mobile Engineer ⚡ Building mobile apps with Flutter/Dart.
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Quduscodes&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Donkelv&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Donkelv&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Quduscodes&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Quduscodes&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 <hr>
