@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Qudus ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Seasoned Mobile Engineer ⚡ Building mobile apps with Flutter/Dart. 
+Seasoned Mobile Engineer ⚡ Building mobile apps with Flutter/Dart and Jetpack Compose/kotlin. 
 
 
 <hr>
