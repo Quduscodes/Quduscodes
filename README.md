@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Qudus ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Seasoned Mobile Engineer ⚡ Building mobile apps with Flutter/Dart and Jetpack Compose/kotlin. 
+Experienced hybrid mobile application developer with a demonstrated history of working in mobile applications development industry using Dependency management, also various architectures including MVVM, MVC, Clean Architecture. Skilled in Firebase, Analytical Skills, Communication, Testing in Android with unit-test/
+instrumentation test, usage of CI/CD flow in the
+development. Strong information technology professional with a BSC focused in Computer Science from Lagos State University. Self-motivated with strong problem-solving skills.
 
 
 <hr>
